@@ -1,0 +1,7 @@
+﻿  SortowanieBabelkowe.cpp
+F:\Microsoft Visual Studio\Projekty\SortowanieBabelkowe\SortowanieBabelkowe.cpp(17,33): warning C4244: "=": konwersja z "_Ty" do "int", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+  SortowanieBabelkowe.vcxproj -> F:\Microsoft Visual Studio\Projekty\SortowanieBabelkowe\x64\Debug\SortowanieBabelkowe.exe
